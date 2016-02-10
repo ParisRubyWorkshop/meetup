@@ -6,16 +6,18 @@ Faire un évènement plus technique pour accueillir les nouveaux venus dans la c
 
 ## Le format:
 
-- Deux évènements par mois en soirée un jour de la semaine (première et dernière semaine du mois)(Le jeudi pour pas faire doublon avec ParisRB ou le deuxième et le dernier mardi du mois ?).
+- Une session tous les deuxièmes mardi du mois (pour se caler entre ParisRB qui est le premier mardi du mois, et les Codelabs ruby qui sont le dernier mardi du mois).
 - On prévoit 15 à 20 personnes pour les premières éditions.
-- La deuxième soirée du mois permet de revenir sur les katas fait au début du mois.
 - Les participants apportent leur laptop. Chacun code sur son laptop, mais il faut s’assurer que tout le monde soit dans de bonnes condition pour discuter du code (éviter le pairing où un membre fait tout et l’autre ne fait que regarder sans oser poser de question).
 
 ## Le programme d’une soirée:
-- Welcome: explication du déroulement de la soirée, remerciement des sponsors
-- Première session de pairing: Les paires débutant/expérimenté se constituent, et pairent ensemble sur un kata ou un bout de projet open source (pendant 45 min ?). On peut aussi mettre en place un atelier de mob programming si on est un nombre impair.Pause bière/softs/pizza en fonction du budget
-- Deuxième session de pairing (pas forcément avec les mêmes paires)
-- Goodbye
+- Welcome: explication du déroulement de la soirée, remerciement des sponsors (10 minutes)
+- Première session de pairing (45 minutes):
+  - Les paires débutant/expérimenté se constituent, et pairent ensemble sur un kata ou un bout de projet open source.
+  - On peut aussi mettre en place un atelier de mob programming si on est un nombre impair.
+- Pause bière/softs/pizza en fonction du budget (environ 30 minutes)
+- Deuxième session de pairing (30 minutes)
+- Goodbye (5 minutes)
 
 ## Prérequis de participation:
 - Apporter un laptop avec ruby et git installés (et rbenv ou rvm si possible)
