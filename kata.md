@@ -6,4 +6,5 @@ Disponibles sur Github. Forkez et codez!
 
 Ailleurs sur les internets:
 - [codekata.com](http://codekata.com/)
+- [codewars.com](http://codewars.com/)
 
