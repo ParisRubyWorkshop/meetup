@@ -2,6 +2,8 @@
 
 Le but premier du Paris Ruby Workshop est d'accueillir *tous* les nouveaux venus dans la communauté ruby parisienne, indépendemment de leur genre, leur origine, leur orientation sexuelle, leur apparence physique, leur handicap ou leur religion.
 
+Nous voulons faire du meetup un cadre agréable et
+
 Tous les participants et sponsors pour notre conférence doivent accepter ce code de conduite.
 
 Les organisateurs s'attacheront à faire respecter ce code pendant le meetup.
