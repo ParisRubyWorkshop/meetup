@@ -32,9 +32,3 @@ Faire un évènement plus technique pour accueillir les nouveaux venus dans la c
 - Penser à voix haute et expliquer ce que l’on fait au fur et à mesure
 - Ne pas hésiter à interrompre dès qu’on a une question
 
-
-## Launch checklist:
-- créer le groupe meetup
-- en parler sur twitter et ailleurs
-- le présenter à parisrb si nécessaire
-
