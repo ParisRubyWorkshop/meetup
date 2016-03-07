@@ -28,6 +28,10 @@ Faire un évènement plus technique pour accueillir les nouveaux venus dans la c
 - Savoir au moins faire un hello world sur ruby (pas difficile ;) )
 
 ## Guidelines de pairing:
+- Présentez vous aux autres paireurs
+- Forkez le repo github du kata (ou créez un repo si vous partez de zéro)
+- Ajoutez les autres paireurs au repo
+- Echangez les rôles toutes les 10 à 15 minutes, en pushant au fur et à mesure sur votre fork
 - S’assurer que son partenaire peut bien voir ce qui se passe à l’écran
 - Ne pas travailler sur du code qui n'est pas open-source, ou sur du code qui appartient à un employeur.
 - Penser à voix haute et expliquer ce que l’on fait au fur et à mesure
