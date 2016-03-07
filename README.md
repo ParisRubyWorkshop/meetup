@@ -21,6 +21,7 @@ Faire un évènement plus technique pour accueillir les nouveaux venus dans la c
   - Pause pizza/softs/bière (environ 30 minutes)
 - Deuxième session de pairing (30 minutes)
 - Goodbye (5 minutes)
+- Fin vers 22h
 
 ## Prérequis de participation:
 - Apporter un laptop avec ruby et git installés (et rbenv ou rvm si possible)
