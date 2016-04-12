@@ -7,7 +7,7 @@ Disponibles sur Github. Forkez et codez!
 - [Bubble_sort](https://github.com/ParisRubyWorkshop/bubble_sort): Faire du tri à bulle.
 - [Goober](https://github.com/ParisRubyWorkshop/goober): Gros projet.
 - [Grandma](https://github.com/ParisRubyWorkshop/grandma): Challenge de Chris Pane.
-- [Ruby-exercices](https://github.com/ParisRubyWorkshop/ruby-exercices): Une série d'exercices sur différents aspects du langage Ruby.
+- [Ruby-exercices](https://github.com/ParisRubyWorkshop/ruby-exercises): Une série d'exercices sur différents aspects du langage Ruby.
 - [Spec This Not That](https://github.com/ParisRubyWorkshop/spec-this-not-that-kata): Quelles specs faire tourner sur une grosse suite de tests ?
 - [NewRelic](https://github.com/newrelic/newrelic-ruby-kata): Comment améliorer les perfs d'une application avec NewRelic ?
 
