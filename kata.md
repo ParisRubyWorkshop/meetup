@@ -8,6 +8,7 @@ Disponibles sur Github. Forkez et codez!
 - [Goober](https://github.com/ParisRubyWorkshop/goober): Gros projet.
 - [Grandma](https://github.com/ParisRubyWorkshop/grandma): Challenge de Chris Pane.
 - [Ruby-exercices](https://github.com/ParisRubyWorkshop/ruby-exercices): Une série d'exercices sur différents aspects du langage Ruby.
+- [Spec This Not That](https://github.com/ParisRubyWorkshop/spec-this-not-that-kata): Quelles specs faire tourner sur une grosse suite de tests ?
 - [NewRelic](https://github.com/newrelic/newrelic-ruby-kata): Comment améliorer les perfs d'une application avec NewRelic ?
 
 
