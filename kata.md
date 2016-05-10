@@ -12,6 +12,7 @@ Pour découvrir le langage:
 ## Intermédiaires
 Si vous connaissez déjà les bases et quelques gems:
 - [Du fichier à l'api](https://github.com/ParisRubyWorkshop/file-to-api-kata): Faites une api à partir d'un fichier json.
+- [FileDB](https://github.com/livementor/katas/tree/master/filedb) : Faites une base de données à partir d'un fichier json. Kata réalisé par LiveMentor :D
 
 ### Experts
 SI vous avez déjà travaillé sur un projet Ruby/Rails en production pendant quelques temps:
