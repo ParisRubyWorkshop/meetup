@@ -25,7 +25,7 @@ Faire un évènement plus technique pour accueillir les nouveaux venus dans la c
 
 ## Prérequis de participation:
 - Avoir lu notre [code de conduite](https://github.com/ParisRubyWorkshop/meetup/blob/master/code_de_conduite.md) et le suivre
-- Apporter un laptop avec ruby et git installés (et rbenv ou rvm si possible)
+- Apporter un laptop avec ruby et git installés (et [rbenv](https://github.com/rbenv/rbenv) ou [rvm](https://github.com/rvm/rvm) si possible)
 - Savoir au moins faire un hello world sur ruby (pas difficile ;) )
 
 ## Guidelines de pairing:
