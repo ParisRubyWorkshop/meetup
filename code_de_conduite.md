@@ -8,7 +8,7 @@ Tou.te.s les participant.e.s et sponsors du workshop doivent accepter ce code de
 
 Les organisateurs s'attacheront à faire respecter ce code pendant le workshop.
 
-Notre workshop se veut une expérience sans harcèlement, quelque soit votre genre, orientation sexuelle, handicap, votre apparence physique, votre poids ou votre religion. Nous ne tolérons aucun harcèlement des participant.e.s au workshop, quelque soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors de l'événement. Les participant.e.s au workshop qui ne respectent pas ces règles peuvent être exclus du workshop, à la discrétion des organisateurs du workshop.
+Notre workshop se veut une expérience sans harcèlement, quelque soit votre genre, orientation sexuelle, handicap, votre apparence physique, votre poids ou votre religion. Nous ne tolérons aucun harcèlement des participant.e.s au workshop, quelque soit sa forme. Les participant.e.s au workshop qui ne respectent pas ces règles peuvent être exclus du workshop, à la discrétion des organisateurs du workshop.
 
 Le harcèlement inclut des commentaires sur le sexe, l'orientation sexuelle, le handicap, l'apparence physique, le poids, la race, ou la religion, ainsi que les images à connotation sexuelle dans des lieux publics, les intimidations délibérées, la traque, la poursuite, un harcèlement photographique ou vidéo, un contact physique inapproprié et des avances sexuelles non désirées.
 
