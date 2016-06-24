@@ -12,7 +12,7 @@ Notre workshop se veut une expérience sans harcèlement, quelque soit votre gen
 
 Le harcèlement inclut des commentaires sur le sexe, l'orientation sexuelle, le handicap, l'apparence physique, le poids, la race, ou la religion, ainsi que les images à connotation sexuelle dans des lieux publics, les intimidations délibérées, la traque, la poursuite, un harcèlement photographique ou vidéo, un contact physique inapproprié et des avances sexuelles non désirées.
 
-Les participant.e.s à qui il sera demandé d'arrêter tout comportement de harcèlement doivent arrêter immédiatement.
+Les participant.e.s à qui il sera demandé d'arrêter tout comportement de harcèlement devront arrêter immédiatement.
 
 Les sponsors sont aussi sujet à la politique anti-harcèlement. En particulier, les sponsors ne doivent pas utiliser d'images ou de matériels à connotation sexuelle. Ils ne doivent pas non plus engager d'activités à connotation sexuelle.
 Ils ne doivent pas non plus créer un environnement sexualisé.
