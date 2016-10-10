@@ -24,4 +24,4 @@ SI vous avez déjà travaillé sur un projet Ruby/Rails en production pendant qu
 Ailleurs sur les internets:
 - [codekata.com](http://codekata.com/)
 - [codewars.com](http://codewars.com/)
-
+- [codingdojo](http://codingdojo.org/) _là où le format Kata est né_
