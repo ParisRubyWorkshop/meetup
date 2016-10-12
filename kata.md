@@ -2,7 +2,7 @@
 
 ## Débutants
 Pour découvrir le langage:
-- [99 Bottles](https://github.com/ParisRubyWorkshop/99_bottles): Ecrire la chanson. =)
+- [99 Bottles](https://github.com/ParisRubyWorkshop/ruby-beer-song): Ecrire la chanson. =)
 - [Cryptographer](https://github.com/ParisRubyWorkshop/cryptographer): Ecrire le ROT-13.
 - [Bubble_sort](https://github.com/ParisRubyWorkshop/bubble_sort): Faire du tri à bulle.
 - [Goober](https://github.com/ParisRubyWorkshop/goober): Gros projet.
