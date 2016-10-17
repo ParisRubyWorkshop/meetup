@@ -21,6 +21,20 @@ Si un participant a un comportement de harcèlement, les organisateurs du worksh
 
 Si vous vous sentez harcelé, si vous pensez que quelqu'un se fait harceler, et plus généralement en cas de problème, merci de contacter immédiatement un membre de l'organisation du workshop
 
+## En cas de problème
+_Si vous rencontrez un problème, parlez-en à des amis et à l'organisation._
+Gérer soi-même ce qui vous tient à coeur n'est pas toujours facile, et nous vous aiderons.
+N'hésitez pas à faire référence à ce code de déontologie.
+
+## Vous êtes dans le public et vous avez un problème
+L'équipe d'organisation est identifiée sur la page du meetup. Dans la plupart des cas, demandez Rodolphe ou Victor. Ils parlent en début de séance et seront facilement identifiables. L'équipe sera normalement informée de ce code, si ce n'est pas le cas allez voir Rodolphe ou Victor. Merci de nous donner un maximum de détails.
+
+## Vous êtes dans l'équipe orga et on vous remonte un problème
+Proposez à la personne de s'asseoir à part, demandez si il ou elle souhaite la présence d'un.e ami.e de confiance, et proposez votre aide.
+Notez un maximum de détails : nom, prénom, comportement offensant. S'il y a un problème sur la santé des personnes, contactez les services d'urgence. Si non, ne le faites que sur demande de la victime.
+Après cela, confrontez la personne à l'origine de l'offense (sans le ou la plaignant.e) pour la laisser énoncer sa version des faits. Si l'affaire l'exige toujours, rappelez l'existence de ce code et les sanctions possibles.
+Dans la plupart des cas, en pratique, exiger des excuses est rarement une bonne idée.
+Si l'événement le nécessite ou que d'autres personnes se sont senties offensées, une annonce publique peut être faite. Faites-la courte, et invitez au débat par la suite et via les organisateurs.
 
 
 Ce code de conduite est inspiré du Code of Conduct de la [JS conf 2012](http://2012.jsconf.us/#/about). Si vous pensez qu'il peut être amélioré, nous serons ravi.e.s d'en discuter à l'oral, sur slack ou via une pull request.
