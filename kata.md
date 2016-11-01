@@ -8,6 +8,7 @@ Pour découvrir le langage:
 - [Goober](https://github.com/ParisRubyWorkshop/goober): Gros projet.
 - [Grandma](https://github.com/ParisRubyWorkshop/grandma): Challenge de Chris Pane.
 - [Ruby-exercices](https://github.com/ParisRubyWorkshop/ruby-exercises): Une série d'exercices sur différents aspects du langage Ruby.
+- [Robot Simulator](https://github.com/ParisRubyWorkshop/ruby-robot-simulator) Un petit robot qui se déplace en fonction des instructions qu'on lui donne. Ce kata vient de [exercism](https://exercism.io) etcomporte une suite de tests qui vous permettra de faire du TDD.
 
 ## Intermédiaires
 Si vous connaissez déjà les bases et quelques gems:
