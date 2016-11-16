@@ -20,7 +20,6 @@ Si vous connaissez déjà les bases et quelques gems:
 ### Experts
 SI vous avez déjà travaillé sur un projet Ruby/Rails en production pendant quelques temps:
 - [Spec This Not That](https://github.com/ParisRubyWorkshop/spec-this-not-that-kata): Quelles specs faire tourner sur une grosse suite de tests ?
-- [NewRelic](https://github.com/newrelic/newrelic-ruby-kata): Comment améliorer les perfs d'une application avec NewRelic ?
 
 
 Ailleurs sur les internets:
